@@ -1,0 +1,28 @@
+.accordion-inner {
+    display: none;
+}
+
+.main-image {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    display: block;
+}
+
+.main-image img {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.slideShow-item{
+    display: inline-block;
+}
+.slideShow-img{
+    display: block;
+    max-width: 200px;
+    max-height: 180px;
+}

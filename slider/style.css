@@ -1,0 +1,17 @@
+.slider-list-wrapper {
+    width: 250px;
+    height: 190px;
+    overflow: hidden;
+}
+
+.slider-list {
+. clearfix;
+    width: 2000px;
+    position: relative;
+    left: 0;
+. transition(.3);
+}
+
+.slider-item {
+    float: left;
+}
